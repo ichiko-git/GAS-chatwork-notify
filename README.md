@@ -37,6 +37,7 @@ Google スプレッドシートと Chatwork を連携し、
    - `CHATWORK_API` : Chatwork API トークン
    - `CHATWORK_ROOM_ID` : 通知先のルーム ID
 4. `notifyStart()` または `notifyEnd()` を手動で実行、もしくはスプレッドシートにボタンを作成してスクリプト割り当てを行う
+
    ![ボタン例](image/ボタン例.png)
    ![スクリプト割り当て](image/スクリプト割り当て.png)
 
